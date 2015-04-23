@@ -19,7 +19,7 @@
 # Manage SQL Azure Resources with PowerShell
 
 
-In this topic you use a PowerShell script to create an Azure SQL Database logical server, a database, and a firewall rule.
+In this topic you will use a PowerShell script to create an Azure SQL Database logical server, a database, and a firewall rule.
 
 ## Step 1: Install Azure SDK
 
@@ -54,7 +54,7 @@ Copy the configured PowerShell cmdlets from step 2 and paste this into your Azur
 If you will be creating these Azure SQL resources again or a similar one, you can: 
 
 - Save this as a PowerShell script file (*.ps1)
-- Save this as an Azure automation runbook in the Automation section of the Azure Management Portal 
+- Save this as an Azure automation runbook in the Automation section of the Azure Management Portal. For more information see [Use Azure Automation](automation-manage-sql-database.md).
 
 ##Examples
 
